@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../theme/colors.dart'; // <--- ESTA ES LA RUTA CORRECTA
+import '../theme/colors.dart'; 
 
 class AfterButton extends StatelessWidget {
   final String label;
